@@ -80,7 +80,7 @@ cleaned_spotify_data.csv
 
 ---
 
-# 💻 Requirements & Installation
+# Requirements & Installation
 
 ## Requirements
 
