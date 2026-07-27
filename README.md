@@ -7,7 +7,7 @@ The main goal of this workflow is to transform raw streaming logs into a **stand
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Features & Workflow Steps](#features--workflow-steps)
 - [Dataset Transformations Schema](#dataset-transformations-schema)
@@ -17,7 +17,7 @@ The main goal of this workflow is to transform raw streaming logs into a **stand
 
 ---
 
-# 🛠️ Features & Workflow Steps
+# Features & Workflow Steps
 
 The workflow follows a structured data quality pipeline:
 
@@ -61,7 +61,7 @@ cleaned_spotify_data.csv
 
 ---
 
-# 📊 Dataset Transformations Schema
+# Dataset Transformations Schema
 
 | Raw Column Name | Cleaned Column Name | Data Type | Transformation Applied |
 |---|---|---|---|
@@ -96,7 +96,7 @@ Additional libraries may be installed depending on the analysis environment.
 
 ---
 
-# 🚀 Usage
+# Usage
 
 The pipeline can be executed in a Python environment or Jupyter Notebook.
 
@@ -215,7 +215,7 @@ df.to_csv(
 
 ---
 
-# 📈 Summary of Results
+# Summary of Results
 
 | Metric | Result |
 |---|---:|
@@ -226,7 +226,7 @@ df.to_csv(
 
 ---
 
-# ✅ Conclusion
+# Conclusion
 
 This preprocessing pipeline successfully transformed raw Spotify streaming history data into a clean and structured dataset suitable for further analysis and visualization.
 
